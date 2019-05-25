@@ -29,11 +29,11 @@ $$
 
   而逻辑回归是假设服从二项分布，对数极大似然估计，构造损失函数进行梯度下降求解。
 
-  ![1558795157199](./ML/1558795157199.png)
+  ![1558795157199](https://github.com/MYingyi/ML/blob/master/1558795157199.png)
 
   推导：
 
-  ![1558795902306](C:\Users\Mying\AppData\Roaming\Typora\typora-user-images\1558795902306.png)
+  ![1558795902306](https://github.com/MYingyi/ML/blob/master/1558795902306.png)
 
 - 推导sigmoid function公式(5)
 
@@ -47,7 +47,7 @@ sigmoid函数与一个概率分布联系起来，那就是伯努利分布。
 
 推导如下，其实就是多分类softmaxd的二分类应用：
 
-![1558796350054](C:\Users\Mying\AppData\Roaming\Typora\typora-user-images\1558796350054.png)
+![1558796350054](https://github.com/MYingyi/ML/blob/master/1558796350054.png)
 
 
 
