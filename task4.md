@@ -1,6 +1,6 @@
 ### task4学习打卡内容：
 
-![1558794781120](C:\Users\Mying\AppData\Roaming\Typora\typora-user-images\1558794781120.png)
+![1558794781120](https://github.com/MYingyi/ML/blob/d749566b16ada328e63c700d0e991f8a71aebd68/1558794781120.png)
 
 由于时间关系，看完视频后，就不进行视频内容的复现了，结合自己的认识和学习，归纳如下：
 
