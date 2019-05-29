@@ -6,9 +6,9 @@ task 5:
 
 - 推导LR损失函数(1)
 
-  ![1559136297765](https://github.com/MYingyi/ML/blob/master/1559136130160.png)
+  ![1559136297765](https://github.com/MYingyi/ML/blob/master/1559136297765.png)
 
-  ![1559136365133](https://github.com/MYingyi/ML/blob/master/1559136297765.png)
+  ![1559136365133](https://github.com/MYingyi/ML/blob/master/1559136365133.png)
 
 
 - 学习LR梯度下降(2)
@@ -26,7 +26,7 @@ task 5:
 
 - softmax损失函数(5)
 
-  ![1559136688238](https://github.com/MYingyi/ML/blob/master/1559136365133.png)
+  ![1559136688238](https://github.com/MYingyi/ML/blob/master/1559136688238.png)
 
 
 - softmax梯度下降(6)
